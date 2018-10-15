@@ -1,0 +1,2 @@
+spring.application.name=app.properties
+spring.cloud.config.uri=http://localhost:8888
